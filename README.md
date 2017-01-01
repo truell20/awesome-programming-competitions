@@ -2,9 +2,11 @@
 
 A curated list of awesome, on-going programming competitions. 
 
-- [Traditional](#traditional)
-- [Games](#games)
-- [Data Science](#data-science)
+- [Awesome Programming Competitions](#awesome-programming-competitions)
+    - [Traditional](#traditional)
+    - [Games](#games)
+    - [Data Science](#data-science)
+- [Contributing](#contributing)
 
 ## Traditional 
 
@@ -29,4 +31,8 @@ In these competitions, you will write a bot to play a game.
 These competitions are strictly for data science and machine learning.
 
 * [Kaggle](https://www.kaggle.com/) - A platform for data science competitions 
+
+# Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
