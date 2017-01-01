@@ -26,7 +26,7 @@ In these competitions, you will write a bot to play a game.
 
 * [Battlecode](https://www.battlecode.org/) - Program a bot to play a new real-time strategy game every January. Hosted by MIT. Java and other JVM languages are supported.
 * [Codin Game](https://www.codingame.com/start) - A challenge-based training platform where you can improve your coding skills with fun exercises (25+ languages supported).
-* [Halite](https://halite.io) -  Using the programming language of your choice, right a bot to fight for control of a 2D grid. Victory will require braving a branching factor billions of times higher than that of Go. Hosted by [Two Sigma](https://www.twosigma.com/). Ends in February.
+* [Halite](https://halite.io) -  Using the programming language of your choice, write a bot to fight for control of a 2D grid. Victory will require braving a branching factor billions of times higher than that of Go. Hosted by [Two Sigma](https://www.twosigma.com/). Ends in February.
 
 ## Data Science
 
