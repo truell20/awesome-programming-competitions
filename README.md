@@ -8,7 +8,7 @@ A curated list of awesome, on-going programming competitions.
 
 ## Traditional 
 
-These competitions require you to exercise algorithmic and data structure knowlegde to solve programming problems.
+These competitions require you to exercise algorithmic and data structure knowlegde.
 
 * [Google Code Jam](https://code.google.com/codejam/) - You will have a few hours to solve increasingly hard algorithmic programming problems. Top coders will be invited to the on-site finals at Google. Starts in March.
 * [USACO](http://usaco.org) - Strictly for high schoolers, this algorithmic competition identifies talent for the US IOI team. Runs from December to March. 
