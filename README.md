@@ -15,6 +15,7 @@ These competitions require you to exercise algorithmic and data structure knowle
 * [Codeforces](http://codeforces.com/) - Internationally-known competitive programming website based out of Russia. Has a strong community with both educational and ranked programming contests occurring year-round.
 * [Coderbyte](https://www.coderbyte.com/) - A website that helps you practice your programming skills with a collection of interview questions, videos, and solutions.
 * [Google Code Jam](https://code.google.com/codejam/) - You will have a few hours to solve increasingly hard algorithmic programming problems. Top coders will be invited to the on-site finals at Google. Starts in March.
+* [Hackerrank](https://www.hackerrank.com/) -  Programming website for individuals and businesses. Contains a large collection of practice problems that span many languages. Website also regularly hosts corporate-sponsored coding contests.
 * [Project Euler](https://projecteuler.net/) - A series of 600+ mathematical/computer programming problems.
 * [Topcoder](https://www.topcoder.com/) - Online computer programming competitions in the Java, C++, and C# languages. Competitions take place twice a week, and members can win from $25-$300.
 * [USACO](http://usaco.org) - Strictly for high schoolers, this algorithmic competition identifies talent for the US IOI team. Runs from December to March.
