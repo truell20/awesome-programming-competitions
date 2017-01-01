@@ -14,6 +14,7 @@ These competitions require you to exercise algorithmic and data structure knowle
 * [USACO](http://usaco.org) - Strictly for high schoolers, this algorithmic competition identifies talent for the US IOI team. Runs from December to March. 
 * [Topcoder](https://www.topcoder.com/) - Online computer programming competitions in the Java, C++, and C# languages. Competitions take place twice a week, and members can win from $25-$300.
 * [Coderbyte](https://www.coderbyte.com/) - A website that helps you practice your programming skills with a collection of interview questions, videos, and solutions.
+* [Project Euler](https://projecteuler.net/) - A series of 600+ mathematical/computer programming problems. 
 
 ## Games 
 
@@ -25,7 +26,7 @@ In these competitions, you will write a bot to play a game.
 
 ## Data Science 
 
-These competitions are strictly for data science.
+These competitions are strictly for data science and machine learning.
 
 * [Kaggle](https://www.kaggle.com/) - A platform for data science competitions 
 
